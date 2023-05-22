@@ -1,0 +1,11 @@
+D:\registrationweb\registrationform\registrationform\bin\Debug\registrationform.exe.config
+D:\registrationweb\registrationform\registrationform\bin\Debug\registrationform.exe
+D:\registrationweb\registrationform\registrationform\bin\Debug\registrationform.pdb
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.csproj.AssemblyReference.cache
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.csproj.SuggestedBindingRedirects.cache
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.Form1.resources
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.Properties.Resources.resources
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.csproj.GenerateResource.cache
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.csproj.CoreCompileInputs.cache
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.exe
+D:\registrationweb\registrationform\registrationform\obj\Debug\registrationform.pdb
